@@ -9,10 +9,23 @@
 
             MyMethod();
         }
-
+         
         static void MyMethod()
         {
             Console.WriteLine("Now I have a method");
+        }
+
+        static void Method1()
+        {
+            // Do something
+        }
+        static void Method2()
+        {
+            // Do something
+        }
+        static void Method3()
+        {
+            // Do something
         }
     }
 }
